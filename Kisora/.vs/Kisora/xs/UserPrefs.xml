@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{EC41A159-BC15-45A2-141B-EC7E6CCB8E56}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Zombie/ZombieAttack.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UnityChan/UnityChanMove.cs" Line="87" Column="6" />
+      <File FileName="Assets/Scripts/UnityChan/UnityChanAction.cs" Line="127" Column="47" />
+      <File FileName="Assets/Scripts/UnityChan/ZombieHit.cs" Line="16" Column="46" />
+      <File FileName="Assets/Scripts/Zombie/ZombieAction.cs" Line="33" Column="50" />
+      <File FileName="Assets/Scripts/Zombie/ZombieAttack.cs" Line="28" Column="38" />
+      <File FileName="Assets/Scripts/HealthBar.cs" Line="11" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
